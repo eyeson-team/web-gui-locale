@@ -1,0 +1,22 @@
+{
+  "name": "web-gui-locale",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "test": "eslint . --ext .json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eyeson-team/web-gui-locale.git"
+  },
+  "author": "Christoph Lipautz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eyeson-team/web-gui-locale/issues"
+  },
+  "homepage": "https://github.com/eyeson-team/web-gui-locale#readme",
+  "devDependencies": {
+    "eslint": "^7.7.0",
+    "eslint-plugin-json": "^2.1.2"
+  }
+}
