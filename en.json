@@ -443,6 +443,7 @@
     "tooltip:snapshot": "Snapshot video podium",
     "tooltip:sound": "sound",
     "tooltip:video_eco:off": "Audio-Only Mode active",
+    "tooltip:video_eco:on": "Audio-Only Mode active",
     "tooltip:video_screen_capture:off": "Presentation active",
     "tooltip:video_screen_capture:on": "Presentation active",
     "tooltip:video_support:off": "No camera available",

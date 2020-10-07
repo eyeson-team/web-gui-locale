@@ -443,6 +443,7 @@
     "tooltip:snapshot": "Podium vidéo capture d'écran",
     "tooltip:sound": "son",
     "tooltip:video_eco:off": "Mode téléphone actif",
+    "tooltip:video_eco:on": "Mode téléphone actif",
     "tooltip:video_screen_capture:off": "Présentation active",
     "tooltip:video_screen_capture:on": "Présentation active",
     "tooltip:video_support:off": "Aucune caméra disponible",

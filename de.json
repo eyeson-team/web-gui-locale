@@ -443,6 +443,7 @@
     "tooltip:snapshot": "Snapshot vom Video-Podium",
     "tooltip:sound": "Ton",
     "tooltip:video_eco:off": "Nur-Audio Modus aktiv",
+    "tooltip:video_eco:on": "Nur-Audio Modus aktiv",
     "tooltip:video_screen_capture:off": "Bildschirmfreigabe aktiv",
     "tooltip:video_screen_capture:on": "Bildschirmfreigabe aktiv",
     "tooltip:video_support:off": "Keine Kamera verfügbar",
