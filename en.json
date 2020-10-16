@@ -171,7 +171,7 @@
     "error:page:msg:meeting_locked": "The active meeting is locked or you just have been removed by another participant. Please contact your host for more information.",
     "error:page:msg:offline": "Looks like you lost your connection. Make sure you're connected to the Internet and refresh the window.",
     "error:page:msg:permission": "Simply allow camera and mic access in your browser and you should be good.",
-    "error:page:msg:quicktest": "Need some help with troubleshooting? %{link}",
+    "error:page:msg:quicktest": "Need some help with troubleshooting?",
     "error:page:msg:request_too_large": "Try reducing the number of network interfaces.",
     "error:page:msg:session_failed": "We lost you for a second. Try reloading the page or go",
     "error:page:msg:session_in_use": "Seems like you're already joined this video call with another device or browser window\/tab. In some case your host might have provided you with the wrong link to the meeting.",

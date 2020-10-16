@@ -171,7 +171,7 @@
     "error:page:msg:meeting_locked": "Das aktive Meeting ist gesperrt oder du wurdest von einem anderen Teilnehmer entfernt. Bitte kontaktiere den Gastgeber für weitere Informationen.",
     "error:page:msg:offline": "Sieht aus, als hätten wir die Verbindung verloren. Stelle sicher, dass du mit dem Internet verbunden bist, und aktualisiere bitte das Browser-Fenster.",
     "error:page:msg:permission": "Erlaube bitte den Zugriff auf Kamera und Mikrofon in deinem Browser.",
-    "error:page:msg:quicktest": "Brauchst du Hilfe bei der Fehlerbehebung? %{link}",
+    "error:page:msg:quicktest": "Brauchst du Hilfe bei der Fehlerbehebung?",
     "error:page:msg:request_too_large": "Versuche die Anzahl der Netzwerkschnittstellen zu verringern.",
     "error:page:msg:session_failed": "Wir haben dich kurz aus den Augen verloren. Lade die Seite neu oder gehe",
     "error:page:msg:session_in_use": "Scheint, als wärst du bereits mit einem anderen Gerät oder Browserfenster an diesem Videoanruf beteiligt. In einigen Fällen hat dein Gastgeber dir möglicherweise den falschen Link zum Meeting bereitgestellt.",
