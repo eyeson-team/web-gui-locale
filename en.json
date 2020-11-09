@@ -100,7 +100,7 @@
     "dialog:title:settings": "Device Settings",
     "dialog:title:share": "Live stream link",
     "dialog:title:snapshot": "Snapshot",
-    "dropzone:description": "Drag & drop your files here or browse to upload",
+    "dropzone:description": "Drag & drop your files here or browse to select",
     "dropzone:header": "Drop it like it's hot",
     "dropzone:restriction:jpg": ".jpg\/.png – max. 25 images\/5mb",
     "dropzone:restriction:pdf": ".pdf – max. 1 document\/50mb",
