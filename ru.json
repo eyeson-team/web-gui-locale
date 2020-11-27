@@ -284,6 +284,8 @@
     "label:reaction:thumbs_up": "Большой палец вверх",
     "label:reaction:tired": "Уставший",
     "label:reaction:wink": "Подмигнуть",
+    "label:reactions": "GIF реакции",
+    "label:reactions:picker": "Выбор GIF реакций",
     "label:recent": "Недавние",
     "label:recording": "Запись",
     "label:reload": "Перезагрузить",
