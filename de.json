@@ -65,7 +65,7 @@
     "dialog:prompt:analyse": "Analysieren",
     "dialog:prompt:close_room": "Videoanruf beenden",
     "dialog:prompt:extend": "Bin noch da",
-    "dialog:prompt:mute": "Kamera & Mikro AUS",
+    "dialog:prompt:mute": "Kamera & Mikro ausschalten",
     "dialog:quick_join": "Verwende diesen Link, um Gäste einzuladen. Der Link läuft ab, sobald die letzten Teilnehmer den Videoanruf verlassen haben.",
     "dialog:quick_join:desc:qr": "Scanne den QR-Code, um den Videoanruf auf deinem Telefon fortzusetzen oder um den Link schnell zu teilen.",
     "dialog:quick_join:qr": "Scanne mit der Kamera-App oder dem QR-Reader deines Smartphones.",
