@@ -446,6 +446,7 @@
     "tooltip:move-camera": "Move camera",
     "tooltip:not_presenter:off": "Someone else is presenting",
     "tooltip:not_presenter:on": "Someone else is presenting",
+    "tooltip:pip_eco": "picture-in-picture is not available in audio only mode",
     "tooltip:pip:off": "Close picture in picture",
     "tooltip:pip:on": "Enter picture in picture",
     "tooltip:presentation": "Share screen or file",

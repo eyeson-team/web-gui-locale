@@ -446,6 +446,7 @@
     "tooltip:move-camera": "Kamera bewegen",
     "tooltip:not_presenter:off": "Jemand anderes präsentiert gerade",
     "tooltip:not_presenter:on": "Jemand anderes präsentiert gerade",
+    "tooltip:pip_eco": "Bild-in-Bild ist im Audio-only Modus nicht verfügbar",
     "tooltip:pip:off": "PiP-Modus verlassen",
     "tooltip:pip:on": "PiP-Modus aktivieren",
     "tooltip:presentation": "Bildschirm oder Datei präsentieren",
