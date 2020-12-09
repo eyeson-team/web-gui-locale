@@ -12,6 +12,7 @@
     "aria:label:chat_input": "Schreib eine Nachricht",
     "aria:label:devices:apply": "Anwenden der Geräteauswahl",
     "aria:label:file_search": "Dateisuche",
+    "aria:label:gif_list": "Liste der GIFs von Giphy. Verwenden Sie Pfeiltasten um zu navigieren.",
     "aria:label:next_page": "nächste Seite",
     "aria:label:previous_page": "vorherige Seite",
     "aria:label:reload": "Seite neu laden",

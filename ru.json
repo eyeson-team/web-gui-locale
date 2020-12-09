@@ -446,6 +446,7 @@
     "tooltip:move-camera": "Передвинь камеру",
     "tooltip:not_presenter:off": "Кто-то еще сейчас презентует",
     "tooltip:not_presenter:on": "Кто-то еще сейчас презентует",
+    "tooltip:pip_eco": "Мини-окно недоступно в аудио-режиме",
     "tooltip:pip:off": "Закрыть режим Мини-окна",
     "tooltip:pip:on": "Открыть режим Мини-окна",
     "tooltip:presentation": "Поделиться экраном или файлом",
