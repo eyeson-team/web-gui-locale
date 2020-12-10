@@ -30,6 +30,8 @@
     "btn:join": "Join",
     "btn:join_as_guest": "Join as guest",
     "btn:label:stop_all": "Stop all",
+    "btn:refresh": "Refresh",
+    "btn:start_over": "Start Over",
     "chat:message": "Message",
     "chat:new_messages": "New messages",
     "chat:no_messages": "No messages yet. Say hello to everyone!",
