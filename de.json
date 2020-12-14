@@ -26,6 +26,8 @@
     "aria:label:presentation_toolbar": "Präsentationssymbolleiste",
     "aria:label:previous_page": "vorherige Seite",
     "aria:label:reload": "Seite neu laden",
+    "aria:label:snapshot": "Snapshot %{id}",
+    "aria:label:snapshot_link": "Snapshot %{id} öffnen",
     "aria:label:thumbnails:collapse": "Seitenvorschau ausblenden",
     "aria:label:thumbnails:expand": "Seitenvorschau anzeigen",
     "aria:label:video_preview:collapse": "Video-Vorschau Seitenleiste ausblenden",

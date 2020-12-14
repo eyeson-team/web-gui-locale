@@ -26,6 +26,8 @@
     "aria:label:presentation_toolbar": "Presentation toolbar",
     "aria:label:previous_page": "previous page",
     "aria:label:reload": "Reload page",
+    "aria:label:snapshot": "Snapshot %{id}",
+    "aria:label:snapshot_link": "Open snapshot %{id}",
     "aria:label:thumbnails:collapse": "Collapse thumbnails",
     "aria:label:thumbnails:expand": "Expand thumbnails",
     "aria:label:video_preview:collapse": "Collapse video preview panel",
