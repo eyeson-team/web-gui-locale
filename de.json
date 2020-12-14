@@ -9,6 +9,7 @@
     "alt:avatar": "Benutzerbild von",
     "alt:avatar_default": "Unbekannter Benutzer",
     "alt:warning": "Warnung",
+    "aria:alert:new_chat_message": "Neue Chat Nachricht",
     "aria:label:chat_input": "Schreib eine Nachricht",
     "aria:label:clear_annotations": "Anmerkungen löschen",
     "aria:label:color_picker": "Farbauswahl für Anmerkungen",
