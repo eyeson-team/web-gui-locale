@@ -343,6 +343,7 @@
     "label:submit_name": "Submit name",
     "label:sure": "Sure?",
     "label:switch": "Switch",
+    "label:system_default": "System default",
     "label:talking_muted": "You are muted.",
     "label:to": "To",
     "label:toggle_audio": "Toggle audio",
