@@ -41,7 +41,7 @@
     "aria:label:video_preview:collapse": "Свернуть панель предварительного просмотра видео",
     "aria:label:video_preview:expand": "Развернуть панель предварительного просмотра видео",
     "browsers:chrome": "Google Chrome (рекомендуем)",
-    "browsers:edge": "Microsoft Edge",
+    "browsers:edge": "Microsoft Edge (Версия 79)",
     "browsers:firefox": "Mozilla Firefox",
     "browsers:opera": "Opera",
     "browsers:safari": "Apple Safari (Версия 11)",

@@ -41,7 +41,7 @@
     "aria:label:video_preview:collapse": "Video-Vorschau Seitenleiste ausblenden",
     "aria:label:video_preview:expand": "Video-Vorschau Seitenleiste anzeigen",
     "browsers:chrome": "Google Chrome (empfohlen)",
-    "browsers:edge": "Microsoft Edge",
+    "browsers:edge": "Microsoft Edge (Version 79)",
     "browsers:firefox": "Mozilla Firefox",
     "browsers:opera": "Opera",
     "browsers:safari": "Apple Safari (Version 11)",
