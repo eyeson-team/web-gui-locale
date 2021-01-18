@@ -431,6 +431,7 @@
     "placeholder:search": "SEARCH",
     "placeholder:search_gifs": "Search for GIFs",
     "presentation:active": "Presentation active",
+    "presentation:busy": "Presentation is currently active. Stop this one to present a new file.",
     "presentation:preview-text": "Click \"Present\" to start the presentation.",
     "presentation:unavailable:eco": "Presentation is unavailable in Audio-Only Mode",
     "preview:header": "Hey there!",

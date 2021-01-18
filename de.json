@@ -431,6 +431,7 @@
     "placeholder:search": "SUCHE",
     "placeholder:search_gifs": "Suche nach GIFs",
     "presentation:active": "Präsentation aktiv",
+    "presentation:busy": "Die Präsentation ist derzeit aktiv. Beenden Sie diese, um eine neue Datei zu präsentieren.",
     "presentation:preview-text": "Klicke auf „Präsentieren“, um die Präsentation zu starten.",
     "presentation:unavailable:eco": "Präsentation im Audio-only Modus nicht verfügbar",
     "preview:header": "Hallo!",
