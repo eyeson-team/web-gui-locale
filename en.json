@@ -383,7 +383,7 @@
     "message:api_error": "Unable to connect to our server. Please try again after some time.",
     "message:broadcast_error:facebook": "There was an error while starting the Facebook broadcast.",
     "message:broadcast_error:youtube": "There was an error while starting the YouTube broadcast.",
-    "message:browser_warn": "Looks like you're using %{browser}. Things might not work perfectly in this browser.",
+    "message:browser_warn": "Looks like you're using %{browser}. Things might not work perfectly.",
     "message:clipboard_success": "Copied to your clipboard!",
     "message:error:full_screen": "There was an error while switching to Full screen, try again if something doesn't seem to work.",
     "message:help": "If you have a question or something isn't working as expected, please visit the Help Center.",

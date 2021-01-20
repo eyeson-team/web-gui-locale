@@ -383,7 +383,7 @@
     "message:api_error": "Impossible de se connecter à notre serveur. Veuillez réessayer après un certain temps.",
     "message:broadcast_error:facebook": "Une erreur s'est produite lors du démarrage de la diffusion Facebook.",
     "message:broadcast_error:youtube": "Une erreur s'est produite lors du démarrage de la diffusion YouTube.",
-    "message:browser_warn": "Il semble que vous utilisez %{browser}. Il se peut que les choses ne fonctionnent pas parfaitement dans ce navigateur.",
+    "message:browser_warn": "Il semble que vous utilisez %{browser}. Il se peut que les choses ne fonctionnent pas parfaitement.",
     "message:clipboard_success": "Copié dans votre presse-papier !",
     "message:error:full_screen": "Une erreur s'est produite lors du passage en plein écran, réessayez si quelque chose ne semble pas fonctionner.",
     "message:help": "Si vous avez une question ou si quelque chose ne fonctionne pas comme prévu, veuillez consulter le Centre d'aide.",
