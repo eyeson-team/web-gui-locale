@@ -148,6 +148,7 @@
     "error_Error": "Désolé, une erreur s'est produite (code: éléphant)",
     "error_EyesonCameraError": "Assurez-vous que votre caméra est connectée, allumée et accessible au navigateur.",
     "error_EyesonMicrophoneError": "Assurez-vous que votre microphone est connecté, allumé et accessible au navigateur.",
+    "error_InternalError": "L'action demandée n'a pas pu être exécutée avec succès, une erreur inconnue s'est produite.",
     "error_not_readable": "Assurez-vous que votre appareil photo et votre microphone ne sont pas utilisés par un autre programme. Vous devrez peut-être aussi redémarrer votre navigateur.",
     "error_NotAllowedError": "Autorisez l'accès à la caméra et au microphone dans votre navigateur.",
     "error_NotFoundError": "Assurez-vous qu'une caméra ou un microphone est connecté, allumé et accessible au navigateur.",

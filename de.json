@@ -148,6 +148,7 @@
     "error_Error": "Entschuldigung, etwas ist schiefgelaufen (code: Elefant)",
     "error_EyesonCameraError": "Stelle sicher, dass die Kamera angeschlossen, eingeschaltet und für den Browser zugänglich ist.",
     "error_EyesonMicrophoneError": "Stelle sicher, dass dein Mikrofon angeschlossen, eingeschaltet und für den Browser zugänglich ist.",
+    "error_InternalError": "Die angeforderte Aktion konnte nicht erfolgreich ausgeführt werden, ein unbekannter Fehler ist aufgetreten.",
     "error_not_readable": "Stelle sicher, dass deine Kamera und dein Mikrofon nicht von einem anderen Programm verwendet werden. Du musst vielleicht auch den Browser neu starten.",
     "error_NotAllowedError": "Erlaube Kamera- und Mikrofonzugriff in deinem Browser.",
     "error_NotFoundError": "Stelle sicher, dass eine Kamera oder ein Mikrofon angeschlossen, eingeschaltet und für den Browser zugänglich ist.",

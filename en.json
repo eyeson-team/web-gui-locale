@@ -148,6 +148,7 @@
     "error_Error": "Sorry something went wrong (code: elephant)",
     "error_EyesonCameraError": "Make sure your camera is connected, turned on and accessible to the browser.",
     "error_EyesonMicrophoneError": "Make sure your microphone is connected, turned on and accessible to the browser.",
+    "error_InternalError": "The requested action could not be executed successfully, an unknown error occurred.",
     "error_not_readable": "Make sure your camera and microphone aren't being used by another program. You might also have to restart your browser.",
     "error_NotAllowedError": "Allow camera and microphone access in your browser.",
     "error_NotFoundError": "Make sure a camera or microphone is connected, turned on and accessible to the browser.",
