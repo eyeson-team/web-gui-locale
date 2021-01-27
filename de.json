@@ -64,6 +64,8 @@
     "devices:microphone": "Mikrofon",
     "devices:speaker": "Ausgabe",
     "dialog:close": "Dialogfenster schließen",
+    "dialog:end_meeting_guest:desc": "Möchtest du dieses Meeting wirklich verlassen?",
+    "dialog:end_meeting_guest:header": "Meeting verlassen",
     "dialog:end_meeting:desc": "Du kannst das Meeting entweder verlassen oder für alle Teilnehmer beenden.",
     "dialog:end_meeting:header": "Meeting verlassen oder beenden?",
     "dialog:error:default:desc": "Irgendeine Art von Fehler ist aufgetreten, das ist alles, was wir gerade wissen",

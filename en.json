@@ -64,6 +64,8 @@
     "devices:microphone": "Microphone",
     "devices:speaker": "Output",
     "dialog:close": "Close dialog window",
+    "dialog:end_meeting_guest:desc": "Are you sure you want to leave this meeting?",
+    "dialog:end_meeting_guest:header": "Leave meeting",
     "dialog:end_meeting:desc": "You can either leave the meeting or end the meeting for all participants.",
     "dialog:end_meeting:header": "Leave or end meeting?",
     "dialog:error:default:desc": "Some kind of error occurred, that's all we know right now",
