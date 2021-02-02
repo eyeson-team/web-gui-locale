@@ -142,6 +142,7 @@
     "eco:refresh1": "Refresh page",
     "eco:refresh2": "to disable",
     "eco:subtitle": "Limited Audio-Only Mode",
+    "eco:switch:description": "Don't send or receive any video to save bandwidth",
     "eco:switch:label": "Enable Audio-Only Mode",
     "eco:title": "Audio-Only Mode",
     "eco:video_participants": "Video participants",

@@ -142,6 +142,7 @@
     "eco:refresh1": "Seite neu laden",
     "eco:refresh2": "zum Deaktivieren",
     "eco:subtitle": "Begrenzter Audio-only Modus",
+    "eco:switch:description": "Es wird kein Video gesendet oder empfangen, um Bandbreite zu sparen",
     "eco:switch:label": "Audio-only Modus einschalten",
     "eco:title": "Audio-only Modus",
     "eco:video_participants": "Video-Teilnehmer",
