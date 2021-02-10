@@ -450,6 +450,7 @@
     "status:connecting": "Connecting...",
     "subtitle:empty_video_podium": "Unmute your camera",
     "title:empty_video_podium": "Empty video podium",
+    "tooltip:actions_menu": "More options",
     "tooltip:annotate:off": "Enable mood analysis",
     "tooltip:annotate:on": "Disable mood analysis",
     "tooltip:audio_position:off": "All audio positions currently taken",

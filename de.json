@@ -450,6 +450,7 @@
     "status:connecting": "Verbindet...",
     "subtitle:empty_video_podium": "Kamera einschalten",
     "title:empty_video_podium": "Leeres Video-Podium",
+    "tooltip:actions_menu": "Mehr Optionen",
     "tooltip:annotate:off": "Stimmungsanalyse aktivieren",
     "tooltip:annotate:on": "Stimmungsanalyse deaktivieren",
     "tooltip:audio_position:off": "Derzeit sind alle Audiopositionen belegt",
