@@ -72,7 +72,7 @@
     "dialog:error:default:primary_label": "Help",
     "dialog:error:default:secondary_label": "Dismiss",
     "dialog:feedback:message": "How was your experience with eyeson? Let us know what you think! Your feedback and suggestions help us to improve eyeson.",
-    "dialog:kick_user:desc": "%{user} will be removed from the current meeting. Unless you have locked the meeting, the dismissed participant can return any time.",
+    "dialog:kick_user:desc": "%{user} will be removed from the current meeting. Unless the meeting is locked, the dismissed participant can return any time.",
     "dialog:kick_user:header": "Remove this participant from the meeting?",
     "dialog:kick_user:remove": "Remove",
     "dialog:layout:title": "Assign a video position",
