@@ -169,6 +169,7 @@
     "error:comapi": "Beim Abrufen von Daten ist ein Fehler aufgetreten (Codename: Skyfall)",
     "error:file_rejected": "nicht unterstützt oder zu groß.",
     "error:hw_enc_vp9": "Dein Browser kann das Video nicht anzeigen. Versuche die Hardwarebeschleunigung in deinen Browsereinstellungen zu deaktivieren. (z.B. „Hardwarebeschleunigung verwenden, wenn verfügbar“ AUS)",
+    "error:ios_permissions": "Stelle sicher, dass Kamera- und Mikrofonzugriff für diesen Browser in der Einstellungen-App erlaubt sind.",
     "error:live_stream:facebook": "Dein Browser unterstützt kein Streaming zu Facebook.",
     "error:msg:email": "E-Mail-Adresse ist ungültig.",
     "error:msg:guest": "Gastzugang zu diesem Videoanruf ist nicht möglich. Stelle sicher, dass das Meeting noch läuft.",

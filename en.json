@@ -169,6 +169,7 @@
     "error:comapi": "An error occurred while fetching some data (Codename: Skyfall)",
     "error:file_rejected": "unsupported or too large.",
     "error:hw_enc_vp9": "Your browser cannot display the video. Try to disable hardware acceleration in your browser settings. (E.g. \"Use hardware acceleration when available\" OFF)",
+    "error:ios_permissions": "Make sure to have camera and microphone access enabled for this browser in the Settings app.",
     "error:live_stream:facebook": "Your browser does not support streaming to Facebook.",
     "error:msg:email": "Email is invalid.",
     "error:msg:guest": "Guest access to this video call is not possible. Make sure the meeting is still running.",
