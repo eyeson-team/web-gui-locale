@@ -232,6 +232,7 @@
     "label:auto_detect": "Auto detect",
     "label:awaiting": "Awaiting response ...",
     "label:awesome": "Got it!",
+    "label:back": "Back",
     "label:bad_connection": "Flaky Connection!",
     "label:browse": "Browse",
     "label:cancel": "Cancel",

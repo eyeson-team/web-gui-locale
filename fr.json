@@ -232,6 +232,7 @@
     "label:auto_detect": "Détection automatique",
     "label:awaiting": "En attente d'une réponse ...",
     "label:awesome": "J'ai compris !",
+    "label:back": "Retourner",
     "label:bad_connection": "Connexion instable !",
     "label:browse": "Parcourir",
     "label:cancel": "Annuler",
