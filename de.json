@@ -135,6 +135,7 @@
     "dropzone:header": "Drop it like it's hot",
     "dropzone:restriction:jpg": ".jpg\/.png - max. 25 Bilder\/5 MB",
     "dropzone:restriction:pdf": ".pdf - max. 1 Dokument\/50 MB",
+    "dropzone:restriction:video": "video\/* - max. 1 Video",
     "eco:audio_participants": "Audio-Teilnehmer",
     "eco:description": "Bei einer langsamen oder unzuverlässigen Internetverbindung oder einem Datenlimit empfehlen wir, den Audio-only Modus auszuprobieren.",
     "eco:description:on": "Wechsle zu einem Standard-Videoanruf. Du kannst andere Teilnehmer sehen und dein Video senden.",
