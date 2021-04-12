@@ -1,5 +1,6 @@
 {
     "action:download": "Herunterladen",
+    "action:open": "Öffnen",
     "action:present": "Präsentieren",
     "action:send": "senden",
     "action:share_screen": "Bildschirm teilen",
@@ -36,6 +37,8 @@
     "aria:label:send_message": "Nachricht senden",
     "aria:label:share_link": "Link teilen",
     "aria:label:snapshot": "Snapshot %{id}",
+    "aria:label:snapshot:download": "Snapshot herunterladen",
+    "aria:label:snapshot:open": "Snapshot in neuem Tab öffnen",
     "aria:label:thumbnail": "Vorschaubild %{id}",
     "aria:label:thumbnails:collapse": "Seitenvorschau ausblenden",
     "aria:label:thumbnails:expand": "Seitenvorschau anzeigen",

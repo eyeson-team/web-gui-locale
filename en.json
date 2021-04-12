@@ -1,5 +1,6 @@
 {
     "action:download": "Download",
+    "action:open": "Open",
     "action:present": "Present",
     "action:send": "send",
     "action:share_screen": "Share screen",
@@ -36,6 +37,8 @@
     "aria:label:send_message": "Send message",
     "aria:label:share_link": "Share link",
     "aria:label:snapshot": "Snapshot %{id}",
+    "aria:label:snapshot:download": "Download snapshot",
+    "aria:label:snapshot:open": "Open snapshot in new tab",
     "aria:label:thumbnail": "Thumbnail %{id}",
     "aria:label:thumbnails:collapse": "Collapse thumbnails",
     "aria:label:thumbnails:expand": "Expand thumbnails",
