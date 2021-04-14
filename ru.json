@@ -1,5 +1,6 @@
 {
     "action:download": "Скачать",
+    "action:open": "Открыть",
     "action:present": "Презентовать",
     "action:send": "Отправить",
     "action:share_screen": "Презентация экрана",
@@ -36,6 +37,8 @@
     "aria:label:send_message": "Отправить сообщение",
     "aria:label:share_link": "Поделиться ссылкой",
     "aria:label:snapshot": "Снимок %{id}",
+    "aria:label:snapshot:download": "Скачать снимок",
+    "aria:label:snapshot:open": "Открыть снимок в новой вкладке",
     "aria:label:thumbnail": "Миниатюра %{id}",
     "aria:label:thumbnails:collapse": "Свернуть миниатюры",
     "aria:label:thumbnails:expand": "Развернуть миниатюры",
@@ -135,6 +138,7 @@
     "dropzone:header": "Закинь сюда файл как горячий пирожок",
     "dropzone:restriction:jpg": ".jpg\/.png – max. 25 images\/5mb",
     "dropzone:restriction:pdf": ".pdf – max. 1 документ\/50mb",
+    "dropzone:restriction:video": "video\/* - макс. 1 видео",
     "eco:audio_participants": "Аудио-участники",
     "eco:description": "Если у тебя медленное или ненадежное подключение к Интернету, можно попробовать аудио-режим",
     "eco:description:on": "Если переключиться на нормальный видеозвонок, можно увидеть других участников и показать им свое видео.",
