@@ -289,6 +289,7 @@
     "label:live": "Live",
     "label:live_stream": "Live-Stream",
     "label:live_stream_settings": "Live-Stream Einstellungen",
+    "label:loading": "Laden…",
     "label:lock_meeting": "Meeting sperren",
     "label:lock_meeting:lock": "Sperren",
     "label:meeting_locked": "Gesperrt",

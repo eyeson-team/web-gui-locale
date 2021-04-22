@@ -289,6 +289,7 @@
     "label:live": "Live",
     "label:live_stream": "Live stream",
     "label:live_stream_settings": "Live Stream Settings",
+    "label:loading": "Loading…",
     "label:lock_meeting": "Lock meeting",
     "label:lock_meeting:lock": "Lock",
     "label:meeting_locked": "Locked",
