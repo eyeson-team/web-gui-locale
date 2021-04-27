@@ -92,7 +92,7 @@
     "dialog:lock_meeting:header": "Empêcher les participants inattendus",
     "dialog:lock_meeting:note": "Remarque ! Vous ne pouvez pas déverrouiller à nouveau la réunion actuellement active.",
     "dialog:message:keyboard": "Voici quelques raccourcis clavier pratiques pour accéder rapidement aux fonctions d’eyeson couramment utilisées.",
-    "dialog:on_hold_user:desc": "%{user} sera mis en salle d'attente (sur un écran séparé). Sélectionnez le participant de la salle d'attente pour le ramener.",
+    "dialog:on_hold_user:desc": "%{user} sera mis en salle d'attente. Sélectionnez le participant de la salle d'attente pour le ramener.",
     "dialog:on_hold_user:header": "Voudriez-vous mettre ce participant en salle d'attente?",
     "dialog:presentation:eco": "Le partage d'écran n'est pas disponible en mode Audio seulement.",
     "dialog:presentation:incognito": "Le partage d'écran n'est pas disponible en mode navigation privée.",

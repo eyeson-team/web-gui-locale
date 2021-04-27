@@ -450,6 +450,7 @@
     "status:connecting": "A ligar...",
     "subtitle:empty_video_podium": "Ativar o som da sua câmara",
     "title:empty_video_podium": "Vídeo Snapshot vazio",
+    "tooltip:actions_menu": "Mais opções",
     "tooltip:annotate:off": "Ativar análise emocional",
     "tooltip:annotate:on": "Desativar análise emocional",
     "tooltip:audio_position:off": "De momento, todos os postos de áudio estão ocupados",

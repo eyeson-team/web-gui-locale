@@ -92,7 +92,7 @@
     "dialog:lock_meeting:header": "Prevent unexpected attendees",
     "dialog:lock_meeting:note": "Note! You can't unlock the currently active meeting again.",
     "dialog:message:keyboard": "Here are some convenient keyboard shortcuts to quickly access commonly used eyeson functions.",
-    "dialog:on_hold_user:desc": "%{user} will be put on hold (on a separate screen). Select the user from the waiting room to bring him back.",
+    "dialog:on_hold_user:desc": "%{user} will be put on hold. Select the user from the waiting room to bring him back.",
     "dialog:on_hold_user:header": "Put participant on hold?",
     "dialog:presentation:eco": "Screen sharing is unavailable in Audio-Only Mode.",
     "dialog:presentation:incognito": "Screen sharing is unavailable in incognito mode.",
