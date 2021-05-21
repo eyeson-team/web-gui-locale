@@ -433,6 +433,7 @@
     "message:stable_experience": "для стабильной (ограниченной) работы.",
     "message:support1": "Нужна помощь? Переходи на",
     "message:support2": "Центр Справки и Поддержки.",
+    "message:unhold_user": "%{userA} добавил к встрече %{userB}",
     "message:unsupported_browser": "Пожалуйста, открой ссылку ниже в одном из поддерживаемых браузеров.",
     "message:upgraded": "Обновлен",
     "message:user_locked_meeting": "%{user} заблакировал(а) конференцию.",
