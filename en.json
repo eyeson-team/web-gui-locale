@@ -568,6 +568,7 @@
     "user_cancelled_i": "Installation canceled",
     "video_mode:title": "Video mode",
     "warning_MicrophoneSilenceWarning": "Your microphone is very silent. Make sure that it's not muted or broken.",
+    "warning_vbg_ImageLoadingError": "Can not load image. Choose another virtual background.",
     "warning_vbg_TypeError": "Invalid image file",
     "youtube_access_denied": "Account access denied, make sure you allow access to your YouTube account.",
     "youtube_account_setup": "The YouTube account is not enabled for live streaming.",

@@ -568,6 +568,7 @@
     "user_cancelled_i": "Installation abgebrochen",
     "video_mode:title": "Video Modus",
     "warning_MicrophoneSilenceWarning": "Dein Mikrofon ist sehr leise. Stelle sicher, dass es nicht stumm geschaltet oder defekt ist.",
+    "warning_vbg_ImageLoadingError": "Bild kann nicht geladen werden. Wähle einen anderen virtuellen Hintergrund.",
     "warning_vbg_TypeError": "Ungültige Bilddatei",
     "youtube_access_denied": "Kontozugriff verweigert! Stelle sicher, dass du den Zugriff auf dein YouTube-Konto erlaubst.",
     "youtube_account_setup": "Das YouTube-Konto ist nicht für Live-Streaming freigeschaltet.",
