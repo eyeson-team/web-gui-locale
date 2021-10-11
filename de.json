@@ -227,6 +227,7 @@
     "error_Screen_NotReadableError": "Stelle sicher, dass der ausgewählte Bildschirm funktioniert und zugänglich ist. Du musst vielleicht auch die Seite neu laden oder den Browser neu starten.",
     "error_Screen_NotReadableError_Audio": "Die Audiofreigabe des ausgewählten Bildschirms funktioniert nicht. Du kannst es ohne Audiofreigabe erneut versuchen.",
     "error_Screen_OverconstrainedError": "Dein Bildschirm entspricht nicht den Anforderungen. Probiere es mit einem anderen.",
+    "error_Screen_SecurityError": "Bildschirmzugriff ist nicht erlaubt. Die entsprechende iFrame-Berechtigung ist erforderlich. Wenden Sie sich an Ihren Videokonferenzanbieter.",
     "error_Screen_TypeError": "Entschuldigung, etwas ist schiefgelaufen (Code: Testosteron)",
     "error_TrackStartError": "Stelle sicher, dass deine Kamera und dein Mikrofon nicht von einem anderen Programm verwendet werden.",
     "error_TypeError": "Entschuldigung, etwas ist schiefgelaufen (code: Testosteron)",

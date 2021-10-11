@@ -227,6 +227,7 @@
     "error_Screen_NotReadableError": "Make sure the selected screen is working and accessible. You might also have to reload the page or restart your browser.",
     "error_Screen_NotReadableError_Audio": "The audio capture of the selected screen is not working. You may try again without audio capture.",
     "error_Screen_OverconstrainedError": "Your screen doesn't meet the requirements. Try another one.",
+    "error_Screen_SecurityError": "Screen access is not allowed. The corresponding iFrame permission is required. Contact your meeting service provider.",
     "error_Screen_TypeError": "Sorry, something went wrong (code: testosterone)",
     "error_TrackStartError": "Make sure your camera and microphone aren't being used by another program.",
     "error_TypeError": "Sorry, something went wrong (code: testosterone)",
