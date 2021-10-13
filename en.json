@@ -113,7 +113,7 @@
     "dialog:remote_mute:description": "Mute all other participants",
     "dialog:remote_mute:header": "You got muted!",
     "dialog:remote_muted:description": "muted all participants.",
-    "dialog:revitalize_stream:desc": "When the video turned black after an incoming call, you can revitalize it to continue.",
+    "dialog:revitalize_stream:desc": "If the video turned black after an incoming call, you can revitalize it to continue.",
     "dialog:revitalize_stream:header": "Revitalize Video",
     "dialog:secondaryLabel": "Cancel",
     "dialog:share:desc": "Share the link below to invite someone. The link expires after the meeting has ended.",
