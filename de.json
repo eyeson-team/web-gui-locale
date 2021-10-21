@@ -66,6 +66,7 @@
     "chat:message": "Nachricht",
     "chat:new_messages": "Neue Nachrichten",
     "chat:no_messages": "Noch keine Nachrichten. Sag Hallo zu allen!",
+    "chat_message_too_long": "Chat-Nachricht zu lang",
     "connection_status_devices": "Stelle sicher, dass deine Kamera angeschlossen und eingeschaltet ist.",
     "default": "Standard",
     "devices:camera": "Kamera",

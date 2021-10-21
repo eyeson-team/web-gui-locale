@@ -66,6 +66,7 @@
     "chat:message": "Message",
     "chat:new_messages": "New messages",
     "chat:no_messages": "No messages yet. Say hello to everyone!",
+    "chat_message_too_long": "Chat message too long",
     "connection_status_devices": "Make sure your camera is connected and turned on.",
     "default": "Default",
     "devices:camera": "Camera",
