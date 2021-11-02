@@ -114,7 +114,7 @@
     "dialog:remote_mute:description": "Alle anderen Teilnehmer stumm schalten",
     "dialog:remote_mute:header": "Du wurdest stumm geschaltet.",
     "dialog:remote_muted:description": "hat alle Teilnehmer stumm geschaltet.",
-    "dialog:revitalize_stream:desc": "Wenn das Video nach einem eingehenden Anruf schwarz wird, kannst du es wiederbeleben, um fortzufahren.",
+    "dialog:revitalize_stream:desc": "Wenn das Video schwarz geworden ist, können Sie versuchen, es zu revitalisieren.",
     "dialog:revitalize_stream:header": "Video wiederbeleben",
     "dialog:secondaryLabel": "Abbrechen",
     "dialog:share:desc": "Teile den unten stehenden Link, um jemanden einzuladen. Der Link läuft mit dem Ende des Meetings ab.",
