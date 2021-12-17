@@ -274,7 +274,7 @@
     "label:connection_info:bitrate": "Bitrate",
     "label:connection_info:connection_delay": "Verbindungsverzögerung",
     "label:connection_info:connection_status": "Verbindung",
-    "label:connection_info:description": "Die Verbindungsverzögerung oder Umlaufzeit gibt an, wie lange es dauert, Audio- und Videoinformationen in die Cloud zu senden und wieder abzurufen. Große Schwankungen und Werte über 300 ms können die Anrufqualität beeinträchtigen.",
+    "label:connection_info:description": "Die Verbindungsverzögerung (connection delay oder round-trip time) gibt an, wie lange es dauert, Audio- und Videoinformationen in die Cloud zu senden und wieder abzurufen. Große Schwankungen und Werte über 300 ms können die Anrufqualität beeinträchtigen.",
     "label:connection_info:jitter": "Jitter",
     "label:connection_info:packet_loss": "Paketverlust",
     "label:continue": "Weiter",
