@@ -519,6 +519,7 @@
     "status:connect_note": "Meeting is starting up and will be ready in a few seconds...",
     "status:connecting": "Connecting...",
     "status:connection:excellent": "Excellent",
+    "status:connection:no_connection": "No connection",
     "status:connection:poor": "Poor",
     "status:connection:unstable": "Unstable",
     "subtitle:empty_video_podium": "Unmute your camera",

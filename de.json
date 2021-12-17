@@ -519,6 +519,7 @@
     "status:connect_note": "Meeting wird gestartet und wird in wenigen Sekunden bereit sein...",
     "status:connecting": "Verbindet...",
     "status:connection:excellent": "Ausgezeichnet",
+    "status:connection:no_connection": "Keine Verbindung",
     "status:connection:poor": "Schlecht",
     "status:connection:unstable": "Instabil",
     "subtitle:empty_video_podium": "Kamera einschalten",
