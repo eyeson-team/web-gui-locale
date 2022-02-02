@@ -80,7 +80,7 @@
     "dialog:device_lost:header:all": "Microphone and Camera lost",
     "dialog:device_lost:header:audio": "Microphone lost",
     "dialog:device_lost:header:video": "Camera lost",
-    "dialog:device_lost:video": "Your camera suddenly stopped working, video is turned off for now. When you unmute video, a new device is automatically selected. To choose another camera you can go to device settings.",
+    "dialog:device_lost:video": "Your camera suddenly stopped working, your video is turned off for now. When you unmute your video, a new device is automatically selected. To choose another camera you can go to device settings.",
     "dialog:end_meeting:desc": "You can either leave the meeting or end the meeting for all participants.",
     "dialog:end_meeting:header": "Leave or end meeting?",
     "dialog:end_meeting_guest:desc": "Are you sure you want to leave this meeting?",
