@@ -67,7 +67,7 @@
     "dialog:device_lost:all": "O seu microfone e câmera de repente pararam de funcionar. Mudamos automaticamente para um novo microfone, mas o vídeo está desativado por enquanto.",
     "dialog:device_lost:all_name": "O seu microfone e câmera de repente pararam de funcionar. Mudamos automaticamente para um novo microfone \" %{name} \", mas o vídeo está desativado por enquanto.",
     "dialog:device_lost:audio": "Seu microfone parou de funcionar de repente. Mudamos automaticamente para um novo dispositivo.",
-    "dialog:device_lost:audio_name": "Seu microfone parou de funcionar de repente. Mudamos automaticamente para um novo dispositivo \" %{name} \".",
+    "dialog:device_lost:audio_name": "Seu microfone parou de funcionar de repente. Mudamos automaticamente para um novo dispositivo \"%{name}\".",
     "dialog:device_lost:header:all": "Microfone e câmera perdidos",
     "dialog:device_lost:header:audio": "Microfone perdido",
     "dialog:device_lost:header:video": "Câmera perdida",

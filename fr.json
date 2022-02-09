@@ -73,10 +73,10 @@
     "devices:microphone": "Microphone",
     "devices:speaker": "Sortie audio",
     "dialog:close": "Fermer la fenêtre de dialogue",
-    "dialog:device_lost:all": "Votre microphone et votre caméra ont soudainement cessé de fonctionner. Nous avons automatiquement changé de microphone, mais la vidéo est désactivée pour le moment.",
-    "dialog:device_lost:all_name": "Votre microphone et votre caméra ont soudainement cessé de fonctionner. Nous avons automatiquement basculé sur un nouveau microphone \" %{name} \", mais la vidéo est désactivée pour le moment.",
+    "dialog:device_lost:all": "Votre microphone et votre caméra ont soudainement cessé de fonctionner. Nous avons automatiquement changé de microphone, mais votre vidéo est désactivée pour le moment.",
+    "dialog:device_lost:all_name": "Votre microphone et votre caméra ont soudainement cessé de fonctionner. Nous avons automatiquement basculé sur un nouveau microphone « %{name} », mais votre vidéo est désactivée pour le moment.",
     "dialog:device_lost:audio": "Votre microphone a soudainement cessé de fonctionner. Nous sommes automatiquement passés à un nouvel appareil.",
-    "dialog:device_lost:audio_name": "Votre microphone a soudainement cessé de fonctionner. Nous sommes automatiquement passés à un nouvel appareil \" %{name} \".",
+    "dialog:device_lost:audio_name": "Votre microphone a soudainement cessé de fonctionner. Nous sommes automatiquement passés à un nouvel appareil « %{name} ».",
     "dialog:device_lost:header:all": "Microphone et caméra perdus",
     "dialog:device_lost:header:audio": "Microphone perdu",
     "dialog:device_lost:header:video": "Caméra perdue",
@@ -582,7 +582,7 @@
     "youtube_liveStreamingNotEnabled": "Le compte YouTube n'est pas activé pour la diffusion en direct. Visitez https:\/\/www.youtube.com\/features pour plus d'information.",
     "youtube_not_a_valid": "Il semble que votre navigateur ait désactivé les cookies tiers.",
     "youtube_popup_closed_by_user": "Il semble que vous ayez fermé le pop-up YouTube.",
-    "youtube_required": "Vous n'êtes pas connecté à YouTube. La diffusion en direct a été arrêtée, mais vous devrez peut-être la marquer comme « terminée\" sur YouTube.",
+    "youtube_required": "Vous n'êtes pas connecté à YouTube. La diffusion en direct a été arrêtée, mais vous devrez peut-être la marquer comme « terminée » sur YouTube.",
     "youtube_timeout": "La demande sur YouTube a pris trop de temps. Essayez à nouveau.",
     "youtube_unable_to_get": "Il semble que votre navigateur ait désactivé le stockage local. La navigation privée peut en être une raison."
 }
