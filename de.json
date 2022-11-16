@@ -1,9 +1,12 @@
 {
+    "action:change_screen": "Bildschirm ändern",
     "action:download": "Herunterladen",
     "action:open": "Öffnen",
     "action:present": "Präsentieren",
+    "action:presentation_mode": "Präsentationsmodus",
     "action:send": "senden",
     "action:share_screen": "Bildschirm als vollständige Präsentation teilen",
+    "action:share_screen_additional_user": "Bildschirm als zusätzlicher Teilnehmer teilen",
     "action:share_screen_as_cam": "Bildschirm statt eigenem Video teilen",
     "action:show_files": "Datei teilen",
     "alt:avatar": "Benutzerbild von",

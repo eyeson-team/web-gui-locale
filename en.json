@@ -1,9 +1,12 @@
 {
+    "action:change_screen": "Change screen",
     "action:download": "Download",
     "action:open": "Open",
     "action:present": "Present",
+    "action:presentation_mode": "Presentation mode",
     "action:send": "send",
     "action:share_screen": "Share screen as full presentation",
+    "action:share_screen_additional_user": "Share screen as additional user",
     "action:share_screen_as_cam": "Share screen instead of own video",
     "action:show_files": "Share file",
     "alt:avatar": "Avatar of",
