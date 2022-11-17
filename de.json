@@ -133,7 +133,7 @@
     "dialog:share:live": "Kopiere den Link und teile ihn mit deiner Community, um sie zum Live-Stream einzuladen.",
     "dialog:share:text": "%{user} lädt dich ein, an dem Videomeeting im Raum „%{room}“ teilzunehmen. Folge dem Link, um teilzunehmen.",
     "dialog:share:title": "Bitte nimm jetzt an meinem Videomeeting teil",
-    "dialog:subtitle:presentation": "Teile Deinen Bildschirm als Vollbild-Präsentation oder nur anstelle deines Videos oder präsentiere Dateien wie PDFs, Bilder oder Videos.",
+    "dialog:subtitle:presentation": "Teile Deinen Bildschirm oder präsentiere Dateien wie PDFs, Bilder oder Videos.",
     "dialog:title:annotation": "Stimmungsanalyse",
     "dialog:title:error": "OH NEIN!",
     "dialog:title:experimental": "experimenteller Browser",
