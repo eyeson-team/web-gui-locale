@@ -427,7 +427,7 @@
     "name_inserts_descr": "Inserción de nombres",
     "not_presenter": "Alguien está ocupado presentando, espera tu turno - y no empujes.",
     "notification:file_ready": "El archivo está listo para la presentación",
-    "notification:snapshot": "tomó una instantánea",
+    "notification:snapshot": "%{user} tomó una instantánea",
     "page:btn:install_app": "Instalar aplicación para móvil",
     "page:btn:open_mobile_app": "Abrir en aplicación para móvil",
     "page:header:mobile": "¡Hurra!",

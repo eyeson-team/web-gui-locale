@@ -424,7 +424,7 @@
     "name_inserts_descr": "Inserir nome no visor",
     "not_presenter": "Mais alguém está ocupado a apresentar",
     "notification:file_ready": "O seu ficheiro está pronto para apresentação",
-    "notification:snapshot": "tirou um Snapshot",
+    "notification:snapshot": "%{user} tirou um Snapshot",
     "page:btn:install_app": "Instalar a aplicação móvel",
     "page:btn:open_mobile_app": "Abrir na aplicação móvel",
     "page:header:mobile": "Hurra!",

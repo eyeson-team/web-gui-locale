@@ -481,7 +481,7 @@
     "name_inserts_descr": "Отобразить вставки имен",
     "not_presenter": "Кто-то другой занят презентацией.",
     "notification:file_ready": "Файл готов к презентации",
-    "notification:snapshot": "сделал(а) снимок",
+    "notification:snapshot": "%{user} сделал(а) снимок",
     "page:btn:install_app": "Установить мобильное приложение",
     "page:btn:open_mobile_app": "Открыть в мобильном приложении",
     "page:header:mobile": "Ура!",

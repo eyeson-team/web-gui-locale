@@ -481,7 +481,7 @@
     "name_inserts_descr": "Afficher les noms",
     "not_presenter": "Quelqu'un d'autre fait une présentation.",
     "notification:file_ready": "Votre fichier est prêt à être présenté",
-    "notification:snapshot": "a pris un snapshot",
+    "notification:snapshot": "%{user} a pris un snapshot",
     "page:btn:install_app": "Installer l'application mobile",
     "page:btn:open_mobile_app": "Ouvrir dans l'application mobile",
     "page:header:mobile": "Hourra !",
