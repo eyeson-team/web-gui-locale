@@ -471,6 +471,7 @@
     "message:recording_stopped": "L'enregistrement a été arrêté.",
     "message:refresh_and_enable": "Rafraîchir et activer",
     "message:screen_sharing_active": "Présentation active",
+    "message:snapshot_success": "Snapshot créé avec succès.",
     "message:stable_experience": "pour une expérience stable (limitée).",
     "message:support1": "Besoin de soutien ? Voir la",
     "message:support2": "Page d'aide.",
