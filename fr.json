@@ -111,6 +111,7 @@
     "dialog:on_hold_user:header": "Voudriez-vous mettre ce participant en salle d'attente?",
     "dialog:presentation:eco": "Le partage d'écran n'est pas disponible en mode Audio seulement.",
     "dialog:presentation:incognito": "Le partage d'écran n'est pas disponible en mode navigation privée.",
+    "dialog:presentation:screen_additional_user_not_supported:locked": "Non disponible lorsque la réunion est verrouillée.",
     "dialog:presentation:screen_capture_not_supported": "Le partage d'écran n'est pas pris en charge par votre navigateur.",
     "dialog:primaryLabel": "OK",
     "dialog:prompt:agree": "Je suis d'accord",
