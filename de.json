@@ -111,6 +111,7 @@
     "dialog:on_hold_user:header": "Teilnehmer in den Warteraum schicken?",
     "dialog:presentation:eco": "Die Bildschirmfreigabe ist im Audio-only Modus nicht verfügbar.",
     "dialog:presentation:incognito": "Die Bildschirmfreigabe ist im Inkognito-Modus nicht verfügbar.",
+    "dialog:presentation:screen_additional_user_not_supported:locked": "Nicht verfügbar, wenn das Meeting gesperrt ist.",
     "dialog:presentation:screen_capture_not_supported": "Die Bildschirmfreigabe wird von deinem Browser nicht unterstützt.",
     "dialog:primaryLabel": "OK",
     "dialog:prompt:agree": "Ich stimme zu",

@@ -111,6 +111,7 @@
     "dialog:on_hold_user:header": "Put participant on hold?",
     "dialog:presentation:eco": "Screen sharing is unavailable in Audio-Only Mode.",
     "dialog:presentation:incognito": "Screen sharing is unavailable in incognito mode.",
+    "dialog:presentation:screen_additional_user_not_supported:locked": "Not available when meeting is locked.",
     "dialog:presentation:screen_capture_not_supported": "Screen sharing isn't supported by your browser.",
     "dialog:primaryLabel": "OK",
     "dialog:prompt:agree": "I Agree",
