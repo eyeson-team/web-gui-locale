@@ -236,7 +236,7 @@
     "error:page:msg:end_meeting": "This meeting has been ended.",
     "error:page:msg:end_meeting_user": "This meeting has been ended by %{user}.",
     "error:page:msg:generic": "We lost you for a second. Try reloading the page or close and continue.",
-    "error:page:msg:ice_error": "We couldn't connect to a critical part of our infrastructure. This can happen if your ISP, IT or company restricts your Internet access.",
+    "error:page:msg:ice_error": "We could not reach every necessary online resource, reload this page to try again. If this problem remains, please contact your IT department or your ISP.",
     "error:page:msg:ice_failed": "We lost you for a second. Try reloading the page or close and continue.",
     "error:page:msg:inactive": "You were inactive for too long so your session expired.",
     "error:page:msg:kick_user": "You have been removed from the meeting by %{user}. Please contact your host for more information.",

@@ -236,7 +236,7 @@
     "error:page:msg:end_meeting": "Das Meeting wurde beendet.",
     "error:page:msg:end_meeting_user": "Das Meeting wurde von %{user} beendet.",
     "error:page:msg:generic": "Wir haben dich kurz aus den Augen verloren. Lade die Seite neu oder schließe sie und fahre fort.",
-    "error:page:msg:ice_error": "Es konnte nicht auf einen wichtigen Bestandteil unserer Infrastruktur zugegriffen werden. Das kann passieren, wenn dein ISP oder deine Firma deinen Internetzugang einschränken.",
+    "error:page:msg:ice_error": "Wir konnten nicht jede erforderliche Online-Ressource erreichen. Laden Sie die Seite neu, um es nochmal zu versuchen. Wenn dieses Problem weiterhin besteht, wenden Sie sich bitte an Ihre IT-Abteilung oder Ihren ISP.",
     "error:page:msg:ice_failed": "Wir haben dich kurz aus den Augen verloren. Lade die Seite neu oder schließe sie und fahre fort.",
     "error:page:msg:inactive": "Du warst zu lange inaktiv, sodass deine Sitzung abgelaufen ist.",
     "error:page:msg:kick_user": "Du wurdest von %{user} aus dem Meeting entfernt. Bitte kontaktiere den Gastgeber für weitere Informationen.",

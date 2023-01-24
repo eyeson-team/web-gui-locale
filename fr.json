@@ -236,7 +236,7 @@
     "error:page:msg:end_meeting": "Cette réunion est terminée.",
     "error:page:msg:end_meeting_user": "La réunion s'est terminée par %{user}.",
     "error:page:msg:generic": "Nous vous avons perdu pendant une seconde. Essayez de recharger la page ou fermez et continuez.",
-    "error:page:msg:ice_error": "Nous ne pouvions pas nous connecter à une partie critique de notre infrastructure. Cela peut arriver si votre fournisseur d'accès Internet ou votre entreprise restreint votre accès à l'internet.",
+    "error:page:msg:ice_error": "Nous n'avons pas pu atteindre toutes les ressources en ligne nécessaires. Rechargez cette page pour réessayer. Si ce problème persiste, veuillez contacter votre service informatique ou votre fournisseur d'accès.",
     "error:page:msg:ice_failed": "Nous vous avons perdu pendant une seconde. Essayez de recharger la page ou fermez et continuez.",
     "error:page:msg:inactive": "Vous avez été inactif pendant trop longtemps et votre session a donc expiré.",
     "error:page:msg:kick_user": "Vous avez été retiré de la réunion par %{user}. Veuillez contacter votre hôte pour plus d'informations.",
