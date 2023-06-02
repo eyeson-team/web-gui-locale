@@ -92,7 +92,7 @@
     "dialog:error:default:desc": "Irgendeine Art von Fehler ist aufgetreten, das ist alles, was wir gerade wissen",
     "dialog:error:default:primary_label": "Hilfe",
     "dialog:error:default:secondary_label": "Ausblenden",
-    "dialog:feedback:message": "Wie war deine Erfahrung mit eyeson? Lass uns wissen was du denkst! Dein Feedback hilft uns, Eyeson konstant zu verbessern.",
+    "dialog:feedback:message": "Wie war deine Erfahrung mit Eyeson? Lass uns wissen was du denkst! Dein Feedback hilft uns, Eyeson konstant zu verbessern.",
     "dialog:kick_user:desc": "%{user} wird aus dem aktuellen Meeting entfernt. Sofern das Meeting nicht gesperrt ist, kann der entfernte Teilnehmer jederzeit zurückkehren.",
     "dialog:kick_user:header": "Diesen Teilnehmer aus dem Meeting entfernen?",
     "dialog:kick_user:remove": "Entfernen",

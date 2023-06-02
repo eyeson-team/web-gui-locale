@@ -77,7 +77,7 @@
     "dialog:error:default:desc": "Ocorreu algum erro, é tudo o que sabemos por agora.",
     "dialog:error:default:primary_label": "Ajuda",
     "dialog:error:default:secondary_label": "Descartar",
-    "dialog:feedback:message": "Como foi a sua experiência com Eyeson? Diga-nos o que pensa! O seu Feedback e sugestões ajudam-nos a melhorar o eyeson.",
+    "dialog:feedback:message": "Como foi a sua experiência com Eyeson? Diga-nos o que pensa! O seu Feedback e sugestões ajudam-nos a melhorar o Eyeson.",
     "dialog:kick_user:desc": "%{user} será removido da reunião atual. Exceto no caso de ter bloqueado a reunião, o participante excluído pode voltar a qualquer momento.",
     "dialog:kick_user:header": "Remover este participante da reunião?",
     "dialog:kick_user:remove": "Remover",
