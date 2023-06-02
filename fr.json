@@ -92,7 +92,7 @@
     "dialog:error:default:desc": "Une sorte d'erreur s'est produite, c'est tout ce que nous savons pour l'instant",
     "dialog:error:default:primary_label": "Aide",
     "dialog:error:default:secondary_label": "Fermer",
-    "dialog:feedback:message": "Comment s'est déroulée votre réunion Eyeson? Faites-nous savoir ce que vous en pensez ! Nous apprécions vos commentaires car cela nous permet de continuer à vous servir au mieux de nos capacités.",
+    "dialog:feedback:message": "Comment s'est déroulée votre réunion Eyeson? Faites-nous savoir ce que vous en pensez! Nous apprécions vos commentaires car cela nous permet de continuer à vous servir au mieux de nos capacités.",
     "dialog:kick_user:desc": "%{user} sera retiré de la réunion en cours. À moins que vous n'ayez verrouillé la réunion, le participant renvoyé peut revenir à tout moment.",
     "dialog:kick_user:header": "Retirer ce participant de la réunion ?",
     "dialog:kick_user:remove": "Retirer",
