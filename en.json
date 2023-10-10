@@ -10,6 +10,7 @@
     "action:share_screen_as_cam": "Share screen instead of own video",
     "action:share_tab_audio": "Share Tab Audio",
     "action:show_files": "Share file",
+    "action:switch_tab": "Switch tab",
     "alt_browser:desc1": "Try",
     "alt_browser:desc2": "or",
     "alt:avatar": "Avatar of",
