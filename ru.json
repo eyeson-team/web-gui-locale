@@ -112,6 +112,7 @@
     "dialog:presentation:incognito": "Функция \"Поделиться экраном\" недоступна в режиме инкогнито.",
     "dialog:presentation:screen_additional_user_not_supported:locked": "Недоступно, если комната заблокирована.",
     "dialog:presentation:screen_capture_not_supported": "Функция \"Поделиться экраном\" не поддерживается этим браузером.",
+    "dialog:presentation:tab_audio_not_supported:locked": "Недоступно, если комната заблокирована.",
     "dialog:primaryLabel": "OK",
     "dialog:prompt:agree": "Подтверждаю",
     "dialog:prompt:analyse": "Анализировать",
