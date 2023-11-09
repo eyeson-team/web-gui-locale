@@ -597,5 +597,5 @@
     "video_mode:title": "Видео-режим",
     "warning_MicrophoneSilenceWarning": "Звук у микрофона очень тихий. Убедись, что он не отключен и не сломан.",
     "warning_vbg_ImageLoadingError": "Не удается загрузить изображение. Выбери другой виртуальный фон.",
-    "warning_vbg_TypeError": "Недопустимый файл изображения"
+    "error:webhid:prevent_multiple_instances": "Недопустимый файл изображения"
 }

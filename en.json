@@ -267,7 +267,7 @@
     "error:webhid:initialize_failed": "Initializing of call control devices failed",
     "error:webhid:invalid_device": "Invalid device",
     "error:webhid:pair_request_failed": "Device pair request failed",
-    "error:webhid:prevent_multiple_instances": "Disabled because it's currently used in another tab or window",
+    "error:webhid:prevent_multiple_instances": "Invalid image file",
     "ice_disconnected": "Heads up! Your connection is flaky.",
     "ice_disconnected_eco": "Heads up! Your connection is flaky.",
     "label:activate": "Activate",
@@ -612,6 +612,5 @@
     "user_cancelled_i": "Installation canceled",
     "video_mode:title": "Video mode",
     "warning_MicrophoneSilenceWarning": "Your microphone is very silent. Make sure that it's not muted or broken.",
-    "warning_vbg_ImageLoadingError": "Can not load image. Choose another virtual background.",
-    "warning_vbg_TypeError": "Invalid image file"
+    "warning_vbg_ImageLoadingError": "Can not load image. Choose another virtual background."
 }
