@@ -589,5 +589,5 @@
     "video_mode:title": "Mode vidéo",
     "warning_MicrophoneSilenceWarning": "Votre micro est très silencieux. Assurez-vous qu'il n'est pas en sourdine ou cassé.",
     "warning_vbg_ImageLoadingError": "Impossible de charger l'image. Choisissez un autre arrière-plan virtuel.",
-    "error:webhid:prevent_multiple_instances": "Fichier image non valide"
+    "warning_vbg_TypeError": "Fichier image non valide"
 }

@@ -267,7 +267,7 @@
     "error:webhid:initialize_failed": "Die Initialisierung der Anrufsteuerungsgeräte ist fehlgeschlagen",
     "error:webhid:invalid_device": "Nicht unterstütztes Gerät",
     "error:webhid:pair_request_failed": "Das Gerät konnte nicht verknüpft werden",
-    "error:webhid:prevent_multiple_instances": "Ungültige Bilddatei",
+    "error:webhid:prevent_multiple_instances": "Deaktiviert aufgrund der Verwendung in einem anderen Tab oder Fenster",
     "ice_disconnected": "Achtung! Deine Verbindung ist instabil.",
     "ice_disconnected_eco": "Achtung! Deine Verbindung ist instabil.",
     "label:activate": "Aktivieren",
@@ -612,5 +612,6 @@
     "user_cancelled_i": "Installation abgebrochen",
     "video_mode:title": "Video Modus",
     "warning_MicrophoneSilenceWarning": "Dein Mikrofon ist sehr leise. Stelle sicher, dass es nicht stumm geschaltet oder defekt ist.",
-    "warning_vbg_ImageLoadingError": "Bild kann nicht geladen werden. Wähle einen anderen virtuellen Hintergrund."
+    "warning_vbg_ImageLoadingError": "Bild kann nicht geladen werden. Wähle einen anderen virtuellen Hintergrund.",
+    "warning_vbg_TypeError": "Ungültige Bilddatei"
 }
