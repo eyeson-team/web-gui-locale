@@ -82,6 +82,8 @@
     "devices:camera": "Kamera",
     "devices:microphone": "Mikrofon",
     "devices:speaker": "Ausgabe",
+    "dialog:autopip:description": "Der Bild-in-Bild-Modus wird aufgerufen, wenn Sie den Fokus vom aktuellen Tab wechseln. Klicken Sie den Button „Zulassen“ beim ersten Erscheinen.",
+    "dialog:autopip:title": "Automatischer Bild-in-Bild-Modus",
     "dialog:close": "Dialogfenster schließen",
     "dialog:device_lost:all": "Dein Mikrofon und deine Kamera funktionieren plötzlich nicht mehr. Wir haben automatisch auf ein neues Mikrofon umgeschaltet, aber dein Video ist vorerst deaktiviert.",
     "dialog:device_lost:all_name": "Dein Mikrofon und deine Kamera funktionieren plötzlich nicht mehr. Wir haben automatisch auf ein neues Mikrofon „%{name}“ umgeschaltet, aber dein Video ist vorerst deaktiviert.",

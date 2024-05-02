@@ -78,6 +78,8 @@
     "devices:camera": "Caméra",
     "devices:microphone": "Microphone",
     "devices:speaker": "Sortie audio",
+    "dialog:autopip:description": "Le mode Image dans l’image est activé lors du changement de focus à partir de l’onglet actuel. Cliquez sur le bouton \"Autoriser\" lors de la première apparition.",
+    "dialog:autopip:title": "Picture-in-picture automatique",
     "dialog:close": "Fermer la fenêtre de dialogue",
     "dialog:device_lost:all": "Votre microphone et votre caméra ont soudainement cessé de fonctionner. Nous avons automatiquement changé de microphone, mais votre vidéo est désactivée pour le moment.",
     "dialog:device_lost:all_name": "Votre microphone et votre caméra ont soudainement cessé de fonctionner. Nous avons automatiquement basculé sur un nouveau microphone « %{name} », mais votre vidéo est désactivée pour le moment.",

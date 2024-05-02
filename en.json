@@ -82,6 +82,8 @@
     "devices:camera": "Camera",
     "devices:microphone": "Microphone",
     "devices:speaker": "Output",
+    "dialog:autopip:description": "Enter picture-in-picture mode when switching focus from current tab. Click the \"Allow\" button on first appearance.",
+    "dialog:autopip:title": "Automatic Picture-in-picture",
     "dialog:close": "Close dialog window",
     "dialog:device_lost:all": "Your microphone and camera suddenly stopped working. We've automatically switched to a new microphone, but your video is turned off for now.",
     "dialog:device_lost:all_name": "Your microphone and camera suddenly stopped working. We've automatically switched to a new microphone \"%{name}\", but your video is turned off for now.",
