@@ -550,6 +550,8 @@
     "page:permission:li6": "Erlaube den Zugriff auf Kamera und Mikrofon",
     "participants:mute_all": "Ruhe bitte",
     "participants:quick_join": "Einladen",
+    "permalink:quickjoin:ready": "Das Meeting ist bereit, du kannst jetzt teilnehmen.",
+    "permalink:quickjoin:waiting": "Bitte warten, das Meeting hat noch nicht begonnen.",
     "placeholder:files_empty": "Keine Dokumente vorhanden.",
     "placeholder:name": "Gib deinen Namen ein",
     "placeholder:no_results_fav": "Noch keine Favoriten",

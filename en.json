@@ -550,6 +550,8 @@
     "page:permission:li6": "Allow access to camera and mic",
     "participants:mute_all": "Mute All",
     "participants:quick_join": "Invite Guest",
+    "permalink:quickjoin:ready": "The meeting is ready, you can join now.",
+    "permalink:quickjoin:waiting": "Please wait, the meeting has not started yet.",
     "placeholder:files_empty": "No documents present.",
     "placeholder:name": "Enter your name",
     "placeholder:no_results_fav": "No favorites yet",
