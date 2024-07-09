@@ -663,5 +663,6 @@
     "video_mode:title": "Video Modus",
     "warning_MicrophoneSilenceWarning": "Dein Mikrofon ist sehr leise. Stelle sicher, dass es nicht stumm geschaltet oder defekt ist.",
     "warning_vbg_ImageLoadingError": "Bild kann nicht geladen werden. Wähle einen anderen virtuellen Hintergrund.",
+    "warning_vbg_InitError": "Der virtuelle Hintergrund funktioniert nicht. Initialisierung ist fehlgeschlagen.",
     "warning_vbg_TypeError": "Ungültige Bilddatei"
 }

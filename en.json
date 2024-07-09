@@ -663,5 +663,6 @@
     "video_mode:title": "Video mode",
     "warning_MicrophoneSilenceWarning": "Your microphone is very silent. Make sure that it's not muted or broken.",
     "warning_vbg_ImageLoadingError": "Can not load image. Choose another virtual background.",
+    "warning_vbg_InitError": "Virtual Background is not working. Initialization failed.",
     "warning_vbg_TypeError": "Invalid image file"
 }
