@@ -59,6 +59,14 @@
     "chat:new_messages": "Novas mensagens",
     "chat:no_messages": "Ainda sem mensagens. Diga olá a todos!",
     "connection_status_devices": "Certifique-se de que a sua câmara está conectada e ligada.",
+    "data_saver:description": "Use os modos de economia de dados para economizar largura de banda em conexões lentas ou dados limitados, usando apenas áudio ou reduzindo a qualidade de áudio\/vídeo.",
+    "data_saver:mode:eco": "Somente áudio",
+    "data_saver:mode:low_quality": "Baixa qualidade",
+    "data_saver:mode:medium_quality": "Qualidade média",
+    "data_saver:mode:standard": "Videochamada padrão",
+    "data_saver:subtitle": "Internet lenta?",
+    "data_saver:title": "Modo de economia de dados",
+    "data_saver:title:short": "Economia de dados",
     "default": "Padrão",
     "devices:camera": "Câmara",
     "devices:microphone": "Microfone",
@@ -143,7 +151,6 @@
     "eco:description:on": "Mudar para uma videochamada standard. Poderá ver outros participantes e enviar o seu vídeo.",
     "eco:description:short": "Não envie nem receba qualquer vídeo para poupar banda larga.",
     "eco:presentation_participants": "Apresentação ativa",
-    "eco:preview:subtitle": "Internet lenta?",
     "eco:refresh1": "Refrescar página",
     "eco:refresh2": "para desativar",
     "eco:subtitle": "Modo de apenas áudio limitado",
@@ -517,6 +524,5 @@
     "tooltip:video:off": "Ativar câmara",
     "tooltip:video:on": "Desativar câmara",
     "unsupported_browser": "Por favor, abra o link abaixo num dos navegadores suportados.",
-    "user_cancelled_i": "Instalação cancelada",
-    "video_mode:title": "Modo de vídeo"
+    "user_cancelled_i": "Instalação cancelada"
 }
