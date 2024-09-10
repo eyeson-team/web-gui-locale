@@ -83,7 +83,6 @@
     "data_saver:mode:eco": "Audio-Only",
     "data_saver:mode:low_quality": "Low Quality",
     "data_saver:mode:medium_quality": "Medium Quality",
-    "data_saver:mode:standard": "Standard video call",
     "data_saver:subtitle": "Slow Internet?",
     "data_saver:title": "Data-Saving Mode",
     "data_saver:title:short": "Data Saving",
