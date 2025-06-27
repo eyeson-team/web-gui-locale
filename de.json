@@ -579,7 +579,7 @@
     "placeholder:no_results_trending": "Keine Ergebnisse",
     "placeholder:search": "SUCHE",
     "placeholder:search_gifs": "Suche nach GIFs",
-    "popup:youtube:description": "Dieses Popup zeigt ein ablenkungsfreies YouTube-Video. Klicke auf \"Start\" und ein Dialog zur Bildschirmfreigabe erscheint, in dem du das Popup-Fenster auswählen kannst. Bestätige deine Auswahl, um das Video im Meeting zu teilen.",
+    "popup:youtube:description": "Teile ein YouTube-Video ohne Ablenkungen - keine Kommentare, keine personalisierten Vorschläge. Klicke auf \"Start\", um die Bildschirmfreigabe zu öffnen und wähle dieses Popup-Fenster.",
     "popup:youtube:init": "Initialisierung, bitte warten oder abbrechen.",
     "popup:youtube:title": "YouTube-Player",
     "presentation:active": "Präsentation aktiv",

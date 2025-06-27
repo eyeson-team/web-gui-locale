@@ -579,7 +579,7 @@
     "placeholder:no_results_trending": "No results",
     "placeholder:search": "SEARCH",
     "placeholder:search_gifs": "Search for GIFs",
-    "popup:youtube:description": "This popup displays a distraction-free YouTube video. Click \"start\", and a screen capture dialog will prompt you to select the popup window. Confirm your selection to share the video in the meeting.",
+    "popup:youtube:description": "Share a YouTube video without distractions – no comments, no personal suggestions. Click “Start” to open screen share and select this popup window.",
     "popup:youtube:init": "Initializing, please wait or cancel.",
     "popup:youtube:title": "YouTube player",
     "presentation:active": "Presentation active",
