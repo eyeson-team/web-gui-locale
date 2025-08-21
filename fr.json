@@ -345,6 +345,8 @@
     "label:loading": "Chargement…",
     "label:lock_meeting": "Verrouiller la réunion",
     "label:lock_meeting:lock": "Verrouiller",
+    "label:meeting_info:room": "Salle",
+    "label:meeting_info:started_at": "Heure de début",
     "label:meeting_locked": "Verrouillé",
     "label:mic_check": "Tester le micro",
     "label:mic_check_stop": "Arrêter de tester le micro",

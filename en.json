@@ -387,6 +387,8 @@
     "label:loading": "Loading…",
     "label:lock_meeting": "Lock meeting",
     "label:lock_meeting:lock": "Lock",
+    "label:meeting_info:room": "Room",
+    "label:meeting_info:started_at": "Start Time",
     "label:meeting_locked": "Locked",
     "label:mic_check": "Check mic",
     "label:mic_check_stop": "Stop Mic check",

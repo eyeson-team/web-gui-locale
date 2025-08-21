@@ -387,6 +387,8 @@
     "label:loading": "Wird geladen…",
     "label:lock_meeting": "Meeting sperren",
     "label:lock_meeting:lock": "Sperren",
+    "label:meeting_info:room": "Raum",
+    "label:meeting_info:started_at": "Startzeit",
     "label:meeting_locked": "Gesperrt",
     "label:mic_check": "Mikrofon prüfen",
     "label:mic_check_stop": "Mikrofon-Check stoppen",
