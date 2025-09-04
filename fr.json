@@ -452,6 +452,7 @@
     "label:yes": "oui",
     "label:youtube:display:additional_user": "Vue partagée (participants visibles)",
     "label:youtube:display:full_presentation": "Présentation plein écran (participants masqués)",
+    "label:zoom": "Zoom",
     "layout_auto": "Auto",
     "layout_description_auto": "En appliquant la mise en page vidéo automatique, tous les participants seront organisés automatiquement.",
     "layout_description_auto_touch": "En appliquant la mise en page vidéo automatique, tous les participants seront organisés automatiquement.",

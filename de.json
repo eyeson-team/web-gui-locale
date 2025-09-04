@@ -505,6 +505,7 @@
     "label:youtube:display:additional_user": "Geteilte Ansicht (Teilnehmer sichtbar)",
     "label:youtube:display:full_presentation": "Vollbild-Präsentation (Teilnehmer ausgeblendet)",
     "label:youtube:url": "YouTube-URL",
+    "label:zoom": "Zoom",
     "layout_auto": "Auto",
     "layout_description_auto": "Durch Anwendung des automatischen Video-Layouts werden alle Teilnehmer automatisch arrangiert.",
     "layout_description_auto_touch": "Durch die Anwendung des automatischen Video-Layouts werden alle Teilnehmer automatisch angeordnet.",

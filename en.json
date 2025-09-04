@@ -505,6 +505,7 @@
     "label:youtube:display:additional_user": "Split View (participants visible)",
     "label:youtube:display:full_presentation": "Full Presentation (participants hidden)",
     "label:youtube:url": "YouTube URL",
+    "label:zoom": "Zoom",
     "layout_auto": "Auto",
     "layout_description_auto": "By applying the automatic video layout, all participants will be arranged automatically.",
     "layout_description_auto_touch": "By applying the automatic video layout, all participants will be arranged automatically.",
