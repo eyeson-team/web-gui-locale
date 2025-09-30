@@ -121,6 +121,7 @@
     "dialog:lock_meeting:header": "Prevent unexpected attendees",
     "dialog:lock_meeting:note": "Note! You can't unlock the currently active meeting again.",
     "dialog:message:keyboard": "Here are some convenient keyboard shortcuts to quickly access commonly used Eyeson functions.",
+    "dialog:mute_all:description": "Mutes everyone except presenters and you. Others will see that you muted the call.",
     "dialog:presentation:eco": "Screen sharing is unavailable in Audio-Only Mode.",
     "dialog:presentation:incognito": "Screen sharing is unavailable in incognito mode.",
     "dialog:presentation:screen_additional_user_not_supported:locked": "Not available when meeting is locked.",
