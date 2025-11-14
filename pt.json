@@ -49,7 +49,7 @@
     "chat:new_messages": "Novas mensagens",
     "chat:no_messages": "Ainda sem mensagens. Diga olá a todos!",
     "connection_status_devices": "Certifique-se de que a sua câmara está conectada e ligada.",
-    "data_saver:description": "Use os Modos de Economia de Dados para economizar largura de banda em conexões lentas ou dados limitados usando somente áudio ou reduzindo a qualidade de áudio\/vídeo.",
+    "data_saver:description": "Utilize os modos de economia de dados para economizar largura de banda em conexões lentas ou com dados limitados, usando apenas áudio ou reduzindo a qualidade de áudio\/vídeo.",
     "data_saver:mode:eco": "Somente áudio",
     "data_saver:mode:low_quality": "Baixa qualidade",
     "data_saver:mode:medium_quality": "Qualidade média",
