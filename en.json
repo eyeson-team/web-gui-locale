@@ -634,7 +634,7 @@
     "status:pressure:fair": "fair",
     "status:pressure:nominal": "nominal",
     "status:pressure:serious": "serious",
-    "status:stream_deck:activate_prompt": "Ensure the Stream Deck app is running and the Eyeson plugin is installed. Click \"Proceed to activate\". When prompted, allow Local network access in your browser. The app will restart automatically.",
+    "status:stream_deck:activate_prompt": "Ensure the Stream Deck app is running and the Eyeson plugin is installed. Click \"Continue to activate\". When prompted, allow Local network access in your browser. The app will restart automatically.",
     "status:stream_deck:connected": "Stream Deck is active.",
     "status:stream_deck:disconnected": "You can extend meeting control with Elgato Stream Deck and the %{plugin}.",
     "status:stream_deck:not_available": "Stream Deck is active, but currently not available.",

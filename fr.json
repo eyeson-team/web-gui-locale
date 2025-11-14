@@ -565,7 +565,7 @@
     "status:lna:blocked": "L’accès au réseau local est bloqué dans ton navigateur. Cette autorisation est nécessaire pour te connecter à ton Stream Deck.",
     "status:lna:blocked_instructions": "Pour corriger ça, ouvre les paramètres de ton navigateur, cherche \"Accès au réseau local\" et enlève toutes les restrictions pour cette application. Ensuite, recharge la page et réessaie.",
     "status:lna:required": "Pour te connecter à ton Stream Deck, ton navigateur doit autoriser l’accès au réseau local.",
-    "status:stream_deck:activate_prompt": "Assure-toi que l’application Stream Deck est lancée et que le plugin Eyeson est installé. Clique ensuite sur \"Activer\". Quand tu y es invité, autorise l’accès au réseau local dans ton navigateur. L’application redémarrera automatiquement.",
+    "status:stream_deck:activate_prompt": "Assure-toi que l’application Stream Deck est lancée et que le plugin Eyeson est installé. Clique ensuite sur \"Continuer pour activer\". Quand tu y es invité, autorise l’accès au réseau local dans ton navigateur. L’application redémarrera automatiquement.",
     "status:stream_deck:retry": "Assure-toi que l’application Stream Deck est lancée et que le plugin Eyeson est installé. Ensuite, recharge la page et réessaie.",
     "subtitle:empty_video_podium": "Activez votre caméra",
     "title:empty_video_podium": "Podium vidéo vide",
