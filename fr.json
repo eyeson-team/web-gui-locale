@@ -442,6 +442,8 @@
     "label:submit_name": "Soumettre le nom",
     "label:sure": "Sûr ?",
     "label:switch": "Changer",
+    "label:system_camera_effects:both_enabled": "Les effets d’arrière-plan de la caméra système et de l’application sont tous deux activés",
+    "label:system_camera_effects:enabled": "Les effets de la caméra système sont déjà activés sur ton appareil",
     "label:system_default": "Défaut du système",
     "label:talking_muted": "Vous êtes en sourdine.",
     "label:to": "À",

@@ -485,6 +485,8 @@
     "label:submit_name": "Submit name",
     "label:sure": "Sure?",
     "label:switch": "Switch",
+    "label:system_camera_effects:both_enabled": "System and app camera background effects are both enabled",
+    "label:system_camera_effects:enabled": "System camera effects are already enabled on your device",
     "label:system_default": "System default",
     "label:talking_muted": "You are muted.",
     "label:to": "To",

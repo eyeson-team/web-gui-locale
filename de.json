@@ -485,6 +485,8 @@
     "label:submit_name": "Name übermitteln",
     "label:sure": "Sicher?",
     "label:switch": "Wechseln",
+    "label:system_camera_effects:both_enabled": "System- und App-Kamerahintergründe sind beide aktiviert",
+    "label:system_camera_effects:enabled": "Systemkameraeffekte sind auf deinem Gerät bereits aktiviert",
     "label:system_default": "Systemvorgabe",
     "label:talking_muted": "Du bist stumm geschaltet.",
     "label:to": "An",
