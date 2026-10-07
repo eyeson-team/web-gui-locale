@@ -139,6 +139,7 @@
     "eco:description": "Si tiene una conexión a Internet lenta o no confiable o un límite de datos en su plan móvil, es posible que desee probar el Modo Phono.",
     "eco:description:on": "Cambiar a una videollamada estándar. Podrás ver a otros participantes y enviar tu video.",
     "eco:description:short": "No envíe ni reciba ningún video para ahorrar ancho de banda.",
+    "eco:leave:title": "Cambiar a vídeo",
     "eco:presentation_participants": "Presentación activa",
     "eco:subtitle": "No envías ni recibes vídeo, lo que ahorra ancho de banda. Aun así, puedes escuchar y hablar con todos.",
     "eco:switch:label": "Habilitar modo phono",

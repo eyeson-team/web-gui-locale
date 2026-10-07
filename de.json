@@ -204,6 +204,7 @@
     "eco:description": "Bei einer langsamen oder unzuverlässigen Internetverbindung oder einem Datenlimit empfehlen wir, den Audio-only Modus auszuprobieren.",
     "eco:description:on": "Wechsle zu einem Standard-Videoanruf. Du kannst andere Teilnehmer sehen und dein Video senden.",
     "eco:description:short": "Es wird kein Video gesendet oder empfangen, um Bandbreite zu sparen.",
+    "eco:leave:title": "Zu Video wechseln",
     "eco:presentation_participants": "Präsentation aktiv",
     "eco:subtitle": "Kein Video wird gesendet oder empfangen, wodurch Bandbreite gespart wird. Du kannst trotzdem alle hören und mit ihnen sprechen.",
     "eco:switch:description": "Es wird kein Video gesendet oder empfangen, um Bandbreite zu sparen",

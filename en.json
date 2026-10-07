@@ -204,6 +204,7 @@
     "eco:description": "If you have a slow or unreliable internet connection or a data-cap on your mobile plan, you might want to give Audio-only Mode a try.",
     "eco:description:on": "Switch to a standard video call. You'll be able to see other participants and send your video.",
     "eco:description:short": "Don't send or receive any video to save bandwidth.",
+    "eco:leave:title": "Switch to video",
     "eco:presentation_participants": "Presentation active",
     "eco:subtitle": "You don't send or receive video, which saves bandwidth. You can still hear and talk with everyone.",
     "eco:switch:description": "Don't send or receive any video to save bandwidth",

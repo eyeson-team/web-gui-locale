@@ -137,6 +137,7 @@
     "eco:description": "Se tiver uma conexão à internet lenta ou pouco fiável ou um limite de dados no seu plano móvel, poderá querer experimentar o modo de apenas áudio. ",
     "eco:description:on": "Mudar para uma videochamada standard. Poderá ver outros participantes e enviar o seu vídeo.",
     "eco:description:short": "Não envie nem receba qualquer vídeo para poupar banda larga.",
+    "eco:leave:title": "Mudar para vídeo",
     "eco:presentation_participants": "Apresentação ativa",
     "eco:subtitle": "Não envia nem recebe vídeo, poupando largura de banda. Pode continuar a ouvir e a falar com todos.",
     "eco:switch:label": "Acionar modo de apenas áudio ",
